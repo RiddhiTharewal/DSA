@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1612606445 source:c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\lab_assgn1\bst.c
+	<stdlib.h>
+	"bst.h"
+	<stdio.h>
+	"queuen.h"
+
+1612022979 c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\lab_assgn1\bst.h
+
+1612101393 c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\lab_assgn1\queuen.h
+	"bst.h"
+
+1612604701 source:c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\lab_assgn1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bst.h"
+	"queuen.h"
+
+1612101393 source:c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\lab_assgn1\queuen.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"queuen.h"
+	"bst.h"
+
