@@ -1,7 +1,4 @@
-/*
-Name : Riddhi Tharewal
-Mis : 111903068
-*/
+
 #include<stdio.h>
 #include"graph.h"
 #include<stdlib.h>
