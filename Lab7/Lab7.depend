@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1618251980 source:c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\lab7\main.c
+	<stdio.h>
+	"graph.h"
+
+1618251777 c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\lab7\graph.h
+
+1618251850 source:c:\users\admin\onedrive - college of engineering pune(an autonomous institute of govt. of maharashtra)\desktop\dsa-ii\lab7\graph.c
+	<stdio.h>
+	"graph.h"
+	<stdlib.h>
+	<limits.h>
+
